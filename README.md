@@ -74,7 +74,7 @@ secluded-skill/
 项目托管在 GitHub 后，可直接克隆：
 
 ```bash
-git clone <你的仓库地址>
+git clone https://github.com/cy-api/secluded-skill
 ```
 
 1. **获取技能包**：克隆仓库到本地（或在 GitHub 页面下载 zip 压缩包解压，效果相同），得到技能目录 `secluded-skill/`
