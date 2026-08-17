@@ -262,7 +262,7 @@ secluded-skill/
 Once the project is on GitHub, clone it directly:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/cy-api/secluded-skill
 ```
 
 1. **Get the pack**: clone the repo (or download the zip archive from GitHub and unzip — same result), you get the skill directory `secluded-skill/`
